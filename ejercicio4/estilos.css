@@ -1,0 +1,52 @@
+/* Estilos-encabezado*/
+#titulo {
+    background-color: darkcyan;
+    width: 292px;
+}
+
+.encabezado {
+    margin-left:600px;
+}
+
+/*Estilos-lista desordenada*/
+#elemento-1 {
+   color: red;
+   font-size: 2rem;
+}
+
+#elemento-2 {
+   font-size: 20px;
+}
+
+#elemento-3 {
+    font-size: 20px;
+}
+
+#elemento-4 {
+    font-size: 20px;
+}
+
+#elemento-5 {
+    font-size: 20px;
+}
+
+/*Estilos-lista ordenada*/
+#Elemento-1 {
+   color: red;
+}
+
+#Elemento-2 {
+    font-size: 20px;
+}
+
+#Elemento-3 {
+    font-size: 20px;
+}
+
+#Elemento-4 {
+    font-size: 20px;
+}
+
+#Elemento-5 {
+    font-size: 20px;
+}
