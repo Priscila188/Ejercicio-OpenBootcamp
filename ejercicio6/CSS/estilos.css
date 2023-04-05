@@ -1,0 +1,20 @@
+.button { 
+   position: relative; 
+   background-color: lightblue;
+   border-color: lightsteelblue;
+   font-size: 2em;
+}
+
+.button::before { 
+   content: "Pasa por encima"; 
+}
+
+.button:hover {
+   color: aliceblue;
+   background-color: limegreen;
+   border-color: limegreen;
+}
+
+.button:hover::before { 
+   content: "¡Hecho!"; 
+}
